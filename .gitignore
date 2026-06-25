@@ -1,0 +1,16 @@
+# Input files (Advent of Code inputs)
+input.txt
+example.txt
+
+# Compiled binaries
+*.o
+*.exe
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
